@@ -1,0 +1,4 @@
+这周的任务是读取数据和数据扩增
+首先，我通过conda安装pytorch失败，重新安装anaconda后，并且设置环境变量，安装anaconda成功。
+读取数据时，忘记吧../改为./ ，导致出现找不到文件，../是上一个文件夹，./是当前文件夹
+然后运行代码时，出现了BrokenPipeError: [Errno 32] Broken pipe错误，把num_workers=0后，错误消失
