@@ -1,0 +1,3 @@
+这次讲CNN的常见层，我之前已经上过Andrew Ng 的CNN课程，对CNN的各种概念还比较熟悉，比如对padding, pooling, strided layer都比较熟悉，
+对(l_prev+2d-f)/s + 1这个公式计算下一个layer也还比较熟悉。昨天也听了张强讲了CNN的发展历史，讲得很好，Andrew Ng本来课上也讲得比较清楚，
+所以跟着张强算是这CNN的发展历史第二遍复习了。希望过几天我可以把整个task做完，然后提交。
