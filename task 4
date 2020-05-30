@@ -1,1 +1,2 @@
 这次的任务包括training 和 validation。经过这次的任务，最大收获就是学会了Pytorch环境下的模型读取和加载，并了解了调参类型。
+并不是模型越复杂越好，模型太复杂，就会过拟合，导致test error过大。因此要找到test error最低的模型。
